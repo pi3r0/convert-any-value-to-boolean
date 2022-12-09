@@ -1,0 +1,23 @@
+{
+  "name": "convert-any-value-to-boolean",
+  "version": "1.0.0",
+  "description": "about converting any value into a boolean",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pi3r0/convert-any-value-to-boolean.git"
+  },
+  "author": "Pierre Houguet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pi3r0/convert-any-value-to-boolean/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^10.0.0"
+  },
+  "homepage": "https://github.com/pi3r0/convert-any-value-to-boolean#readme"
+}
